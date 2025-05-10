@@ -29,7 +29,12 @@
 ### **2.3. Manipulação de arquivos**  
 - Criação, renomeação, cópia e exclusão de arquivos  
 **Figura 3:** Estrutura de arquivos antes/depois das operações.  
-![Manipulação de arquivos](  
+![Manipulação de arquivos](imagens/cd-~.png)
+![touch arquivo](imagens/touch-arquivo1.png)
+![mv arquivo1](imagens/mv-arquivo1-documento.png)
+![mkdir backup](imagens/mkdir-backup:atividades.png)
+![cp-backup](imagens/cp-backup.png)
+![cd ~ atividades](imagens/cd-~:atividads.png)
 
 ---
 
@@ -43,7 +48,9 @@
 ### **2.5. Permissões de arquivos**  
 - Uso do `chmod` para alterar permissões  
 **Figura 5:** Comparação antes/depois do `chmod u+x`.  
-![Permissões de arquivo](caminho/imagem5.jpg)  
+![dnf install](imagens/nano-install.png)
+![nano version](imagens/nano---version.png)
+![rm nano](imagens/  
 
 ---
 
