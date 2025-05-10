@@ -14,7 +14,7 @@
 ### **2.1. Iniciar um contêiner Fedora**  
 - Download da imagem e execução do contêiner interativo  
 **Figura 1:** Saída do comando `docker run`.  
-imagens/docker-run.png)  
+![Imagem do contêiner Fedora](imagens/docker-run.png) 
 
 ---
 
