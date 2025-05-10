@@ -21,7 +21,8 @@
 ### **2.2. Navegação básica**  
 - Comandos: `pwd`, `cd ~`, `ls`, `mkdir`, `cd`  
 **Figura 2:** Resultado da navegação entre diretórios.  
-![Navegação em diretórios](caminho/imagem2.jpg)  
+![Navegação em diretórios](imagens/navegar.jpg)
+![atividades](imagens/mkdir  
 
 ---
 
