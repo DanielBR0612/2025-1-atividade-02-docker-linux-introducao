@@ -22,14 +22,14 @@
 - Comandos: `pwd`, `cd ~`, `ls`, `mkdir`, `cd`  
 **Figura 2:** Resultado da navegação entre diretórios.  
 ![Navegação em diretórios](imagens/navegar.jpg)
-![atividades](imagens/mkdir  
+![atividades](imagens/mkdir-atividades.png)  
 
 ---
 
 ### **2.3. Manipulação de arquivos**  
 - Criação, renomeação, cópia e exclusão de arquivos  
 **Figura 3:** Estrutura de arquivos antes/depois das operações.  
-![Manipulação de arquivos](caminho/imagem3.jpg)  
+![Manipulação de arquivos](  
 
 ---
 
