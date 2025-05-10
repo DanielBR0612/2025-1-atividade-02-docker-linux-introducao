@@ -35,45 +35,46 @@
 ![mkdir backup](imagens/mkdir-backup:atividades.png)
 ![cp-backup](imagens/cp-backup.png)
 ![cd ~ atividades](imagens/cd-~:atividads.png)
+![rm documento](imagens/rm-documento.png)
 
 ---
 
 ### **2.4. Gerenciamento de pacotes**  
 - Instalação e remoção do `nano` com `dnf`  
 **Figura 4:** Saída dos comandos `dnf install` e `dnf remove`.  
-![Gerenciamento de pacotes](caminho/imagem4.jpg)  
+![dnf install](imagens/install-nano.png)
+![nano version](imagens/nano---vrsion.png)
+![rm nano](imagens/rm-nano.png)  
 
 ---
 
 ### **2.5. Permissões de arquivos**  
 - Uso do `chmod` para alterar permissões  
 **Figura 5:** Comparação antes/depois do `chmod u+x`.  
-![dnf install](imagens/nano-install.png)
-![nano version](imagens/nano---version.png)
-![rm nano](imagens/  
+![touch script](imagens/touck-script.png)  
 
 ---
 
 ### **2.6. Processos em execução**  
 - Comandos `ps aux`, `sleep` e `kill`  
 **Figura 6:** Listagem e encerramento de processos.  
-![Gerenciamento de processos](caminho/imagem6.jpg)  
-
+![ps aux](imagens/ps-aux.png)
+![kill sleep](imagens/kill-sleep.png)  
 ---
 
 ### **2.7. Encerrando o contêiner**  
 - Saída e remoção do contêiner  
 **Figura 7:** Confirmação da remoção com `docker rm`.  
-![Remoção do contêiner](caminho/imagem7.jpg)  
+![exit](imagens/exit.png)
 
 ---
 
 ## **3. Conclusão**  
 🔹 **Aprendizados:**  
-- [Liste os conhecimentos adquiridos, ex: comandos Docker, estrutura de diretórios, gerenciamento de pacotes]  
+- Aprendi os comandos basicos de linux sobre os tópicos apresentados  
 
 🔹 **Dificuldades:**  
-- [Mencione desafios encontrados, ex: diferença entre caminhos absolutos/relativos]  
+- Memorização da funcionalidade de cada código  
 
 🔹 **Observações finais:**  
-[Adicione comentários sobre a experiência ou sugestões para melhorias]  
+ Sugiro fazer as atividades com um objetivo claro para entendermos melhor os comandos
